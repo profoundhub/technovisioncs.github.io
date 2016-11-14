@@ -108,7 +108,6 @@ jQuery(document).ready(function($) {
 
 	/* Subscribe End
 	-------------------------------------------------------------------*/
-
 });
 
 /* Document Ready function End
